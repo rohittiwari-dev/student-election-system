@@ -7,9 +7,8 @@ It is a Student Council Election System with advance Validation and data Flow Co
 ## Project Setup
 
 1. Install `JDK^v8`
-2. run Live Project by running executable `/Votting System/Votting System.exe`
-3. To make Changes Accordingly you need [NetBeans](https://netbeans.apache.org/download/nb18/)
-4. All Classes and byte Codes are in `/Src` Folder
+2. To make Changes Accordingly you need [NetBeans](https://netbeans.apache.org/download/nb18/)
+3. All Classes and byte Codes are in `/Src` Folder
 
 ## Created & Maintained By
 
